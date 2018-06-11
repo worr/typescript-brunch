@@ -35,8 +35,8 @@
     "eslint-config-brunch": "^1.0.0"
   },
   "peerDependencies": {
-    "brunch": "^2.2.0",
-    "typescript": "^2.0.0"
+    "brunch": "^2.10.0",
+    "typescript": "^2.8.0"
   },
   "eslintConfig": {
     "extends": "brunch"
